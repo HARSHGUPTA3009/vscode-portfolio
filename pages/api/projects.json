@@ -1,29 +1,30 @@
 [
   {
     "id": 1,
-    "name": "Driwwwle",
-    "image": "https://imgur.com/kbGs6zH.png",
-    "description": "A platform for web developers to showcase their projects",
-    "tags": ["next", "node", "mongodb", "tailwind", "react-query"],
-    "source_code": "https://github.com/itsnitinr/driwwwle-v2",
-    "demo": "https://driwwwle.com/"
+    "name": "GDSC WEBSITE",
+    "image": "https://imgur.com/8FFqaX8.png",
+    "description": "GDSC Thapar Official Website",
+    "tags": ["vite", "node", "mongodb", "tailwind", "react"],
+    "source_code": "https://github.com/developer-student-club-thapar/officialWebsite",
+    "demo": "https://www.gdsctiet.in"
   },
   {
     "id": 2,
-    "name": "PCB Cupid",
+    "name": "React based Todo App",
     "image": "https://imgur.com/tAZotn3.png",
-    "description": "E-commerce website for a PCB manufacturing company",
-    "tags": ["react", "node", "mongodb", "redux", "razorpay", "material-ui"],
-    "demo": "https://www.pcbcupid.com/"
+    "description": "An fully working todo app",
+    "tags": ["react", "css"],
+    "source_code": "https://github.com/HARSHGUPTA3009/todo-vercel",
+    "demo": "https://todo-vercel-seven.vercel.app"
   },
   {
     "id": 3,
-    "name": "HealthyWays",
+    "name": "Ninja Game ",
     "image": "https://imgur.com/8FFqaX8.png",
-    "description": "A food ordering platform for healthy and home-cooked meals",
-    "tags": ["react", "node", "mongodb", "redux", "razorpay", "material-ui"],
-    "source_code": "https://github.com/itsnitinr/healthyways",
-    "demo": "https://healthyways.herokuapp.com/"
+    "description": "A 2D ninja 2 player ninja combat game",
+    "tags": ["html","javascript","css"],
+    "source_code": "https://github.com/priyanshu1976/Iete-societyfair-project",
+    "demo": "https://iete-societyfair-project.vercel.app"
   },
   {
     "id": 4,
@@ -31,7 +32,16 @@
     "image": "https://imgur.com/mKkz0iz.png",
     "description": "A themeable and developer-centric portfolio based on the VSCode",
     "tags": ["next", "css-modules"],
-    "source_code": "https://github.com/itsnitinr/vscode-portfolio",
+    "source_code": "https://github.com/HARSHGUPTA3009/vscode-portfolio",
     "demo": "http://vscode-portfolio.vercel.app/"
+  },
+  {
+    "id": 5,
+    "name": "IETE Website",
+    "image": "https://imgur.com/tAZotn3.png",
+    "description": "IETE Thapar Official Website",
+    "tags": ["react", "css-modules","tailwind"],
+    "source_code": "https://github.com/HARSHGUPTA3009/Iete-Website"
+    
   }
 ]

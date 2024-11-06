@@ -33,7 +33,7 @@
     "description": "A themeable and developer-centric portfolio based on the VSCode",
     "tags": ["next", "css-modules"],
     "source_code": "https://github.com/HARSHGUPTA3009/vscode-portfolio",
-    "demo": "http://vscode-portfolio.vercel.app/"
+    "demo": "https://vscode-portfolio-eight-tau.vercel.app/"
   },
   {
     "id": 5,
